@@ -1,0 +1,23 @@
+{
+  "name": "movi-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheThuongg/movie-design.git"
+  },
+  "keywords": [
+    "thethuong",
+    "design"
+  ],
+  "author": "tituss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheThuongg/movie-design/issues"
+  },
+  "homepage": "https://github.com/TheThuongg/movie-design#readme"
+}
